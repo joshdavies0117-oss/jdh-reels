@@ -1,0 +1,16 @@
+{
+  "account": "@jdh_software_",
+  "schedule": "1 reel per day at 06:00 Africa/Harare, Instagram only",
+  "reels": [
+    { "id": "JDH-R01", "file": "reels/01_after_hours.mp4",
+      "caption": "Still answering price questions at 9pm? 📱 Your own AI assistant replies on WhatsApp in seconds, from your real price list, day or night.\n\nBook your free admin audit 👉 WhatsApp +263 79 017 9180\n\n#Harare #Zimbabwe #SmallBusiness #WhatsAppBusiness #Automation" },
+    { "id": "JDH-R02", "file": "reels/02_only_you_know.mp4",
+      "caption": "Phone ringing every time staff need a number? Give them their own AI assistant. They ask, it gives the figure and the record it came from.\n\nFree admin audit 👉 jdhsoftware.solutions\n\n#Harare #BusinessOwner #ZimBusiness #AI" },
+    { "id": "JDH-R03", "file": "reels/03_reorder.mp4",
+      "caption": "Stop digging through the stock sheet every Monday. Just ask what to reorder. Fixed price before we start, and you own everything we build.\n\nFree admin audit 👉 WhatsApp +263 79 017 9180\n\n#Harare #Retail #Hardware #StockControl #Zimbabwe" },
+    { "id": "JDH-R04", "file": "reels/04_how_it_works.mp4",
+      "caption": "How do you actually get your own AI assistant? A free 1-hour audit, then one fixed quote, then we sit with your team until they trust it. First automation live in 1–2 weeks.\n\nBook yours 👉 jdhsoftware.solutions\n\n#Harare #Automation #SmallBusinessZW" },
+    { "id": "JDH-R05", "file": "reels/05_what_it_is.mp4",
+      "caption": "Not a chatbot that read the internet. Trained on your prices, stock, invoices and customers, it lives on WhatsApp, and payroll, HR and bank details stay switched off.\n\nFree admin audit 👉 WhatsApp +263 79 017 9180\n\n#Harare #AI #WhatsApp #ZimBusiness" }
+  ]
+}
